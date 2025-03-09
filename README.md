@@ -1,2 +1,2 @@
 # Heart-disease-Risk-Assessment
-This AI model predicts heart disease using key health attributes, training three machine learning algorithms to select the most accurate one. It leverages data preprocessing, visualization, and analysis for reliable early diagnosis.
+This AI-powered system predicts heart disease using key health attributes like BMI, age, and blood pressure. Three machine learning models—Logistic Regression, Random Forest, and SVM—are trained and evaluated, with the most accurate model selected. Through data preprocessing, visualization, and comparative analysis, this project enhances early diagnosis and medical decision-making
